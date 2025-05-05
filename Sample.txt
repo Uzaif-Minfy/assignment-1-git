@@ -7,3 +7,5 @@ After initial commit
 this is row 6
 After second commit
 this is row 7
+After third commit
+this is row 8
