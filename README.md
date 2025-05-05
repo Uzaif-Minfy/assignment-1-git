@@ -18,3 +18,6 @@ Changes made in each commit
 
 
 This repository demonstrates basic Git commands like `init`, `add`, `commit`, `log`, and `diff`.
+
+
+UPDATING FOR ASSIGNMENT 2
